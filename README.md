@@ -7,4 +7,4 @@ landing page according to BEM and SCSS
 - Tablet 1024
 - Mobile (> 320px)
 
-[DEMO LINK](https://AlieksieienkoAndriy.github.io/Thrive_talk/).
+[DEMO LINK](https://AlieksieienkoAndriy.github.io/Thrive-talk/).
